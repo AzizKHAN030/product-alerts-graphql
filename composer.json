@@ -2,7 +2,6 @@
     "name": "scandipwa/product-alerts-graphql",
     "description": "Magneto 2 Product alerts graphQl endpoints",
     "type": "magento2-module",
-    "version": "1.0.0",
     "require": {
         "php": "~7.3.0||~7.4.0",
         "magento/module-product-alert": "100.4.*",
