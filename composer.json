@@ -13,10 +13,10 @@
     ],
     "autoload": {
         "files": [
-            "src/registration.php"
+            "registration.php"
         ],
         "psr-4": {
-            "ScandiPWA\\ProductAlertsGraphQl\\": "src"
+            "ScandiPWA\\ProductAlertsGraphQl\\": ""
         }
     }
 }
