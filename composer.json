@@ -3,7 +3,6 @@
     "description": "Magneto 2 Product alerts graphQl endpoints",
     "type": "magento2-module",
     "require": {
-        "php": "~7.3.0||~7.4.0",
         "magento/module-product-alert": "100.4.*",
         "magento/module-graph-ql": "100.4.*",
         "magento/framework": "103.0.*"
